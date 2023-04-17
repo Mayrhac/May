@@ -1,0 +1,13 @@
+.cabeçalho{
+    background-color: blue;
+    color: azure;
+    display: flex;
+    justify-content: space-between;
+}
+.cabeçalho-imagem{
+    width: 20%;
+}
+.cabeçalho-item{
+    display: inline-block;
+    padding: 30px;
+}
